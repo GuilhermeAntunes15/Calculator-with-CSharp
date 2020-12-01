@@ -1,0 +1,9 @@
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\guian\OneDrive\Área de Trabalho\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
